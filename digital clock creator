@@ -1,0 +1,30 @@
+#include <stdio.h>
+
+int main() {
+    int total_sec;
+    int hours,minutes,seconds;
+    printf("enter the number of seconds that shud be converted into digital clock form  : ");
+    scanf("%d",&total_sec);
+    
+    hours=total_sec/3600;
+    minutes=(total_sec-hours*3600)/60;
+    seconds=(total_sec-hours*3600)%60;
+    
+    if(hours<10){
+        printf(0);
+    }
+    printf("%d : ",hours);
+    if(minutes<10){
+        printf(0);
+    }
+    printf("%d : ",minutes);
+    if(seconds<10){
+        printf(0);
+    }
+    printf("%d",seconds);
+    return 0;
+    
+    
+        
+    
+}
