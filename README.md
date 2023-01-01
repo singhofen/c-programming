@@ -20,8 +20,11 @@ Answer: To get started, you'll need a C compiler. If you don't already have one 
 Check below for C Compiler installation guide suited to an operating system of your choice 👇: 
 
 -To learn how to install a C compiler on Windows: https://linuxhint.com/install-c-compiler-windows/
+
 -To learn to install GCC Compiler for Ubuntu (linux distro): https://data-flair.training/blogs/install-c-on-linux/
+
 -To install GCC compiler on MacOS: https://codeforces.com/blog/entry/106465
+
 
 Once you have a C compiler installed, you can compile and run a C program by using the following steps:
 
@@ -35,5 +38,8 @@ We hope you find these resources helpful as you begin your journey to learn C pr
 Otherway is to download any code-editor according to convenience.
 Our recommendation is to download and install Microsoft's Visual Studio Code and further install some suitable program extensions. 
 Link to install Visual Studio Code: https://code.visualstudio.com/download
+
+README by ![resize_chase](https://user-images.githubusercontent.com/103309340/210171780-3867f9c6-a0d5-40bc-9d3a-ac3420aab9a7.jpg)
+
 
 
