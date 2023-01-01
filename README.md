@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/103309340/210171054-12411cdc-776e-40af-bb96-0fb64816de2a.png)
+![done_c](https://user-images.githubusercontent.com/103309340/210172472-ddfe273d-70cc-473c-8f3f-edcf8da7d43c.gif)
 
 # 👨‍💻C-Programming Learner's Repository!👨‍💻
 
