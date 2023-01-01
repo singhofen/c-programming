@@ -1,4 +1,4 @@
-[C_glitch_style_logo](https://user-images.githubusercontent.com/103309340/210171001-2a198fab-e8e5-452a-b327-b3650b89d4dc.gif)
+![image](https://user-images.githubusercontent.com/103309340/210171054-12411cdc-776e-40af-bb96-0fb64816de2a.png)
 
 # C-Programming Learner's Repository!
 
