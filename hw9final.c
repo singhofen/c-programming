@@ -12,7 +12,7 @@ Specification: Array’s Introduction
 //use for and if statements  2 each, one for input and one for output.
 main() {
 	int number[SIZE];// size is [50]
-	int i;
+	int i;// should be in []along with variable int.
 
 	for (i = 0; i < SIZE; i++) //remember to put value = 0 with the integer [i] in for loop statement.
 	{
