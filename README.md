@@ -1,4 +1,5 @@
 [C_glitch_style_logo](https://user-images.githubusercontent.com/103309340/210171001-2a198fab-e8e5-452a-b327-b3650b89d4dc.gif)
+
 # C-Programming Learner's Repository!
 
 Welcome to the C Programming Learner's Repository!
