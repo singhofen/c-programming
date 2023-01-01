@@ -39,7 +39,10 @@ Otherway is to download any code-editor according to convenience.
 Our recommendation is to download and install Microsoft's Visual Studio Code and further install some suitable program extensions. 
 Link to install Visual Studio Code: https://code.visualstudio.com/download
 
-README by ![resize_chase](https://user-images.githubusercontent.com/103309340/210171780-3867f9c6-a0d5-40bc-9d3a-ac3420aab9a7.jpg)
+README by
+
+![resize_chase](https://user-images.githubusercontent.com/103309340/210171780-3867f9c6-a0d5-40bc-9d3a-ac3420aab9a7.jpg) & ![rsz_bd_gradient_1](https://user-images.githubusercontent.com/103309340/210171858-e62a5bd3-0ede-4314-8436-3c539a8a3434.jpg)
+
 
 
 
