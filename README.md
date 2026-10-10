@@ -1,5 +1,9 @@
 ![done_c](https://user-images.githubusercontent.com/103309340/210172472-ddfe273d-70cc-473c-8f3f-edcf8da7d43c.gif)
 
+![C Version](https://img.shields.io/badge/C-C11-blue.svg)
+![Compiler](https://img.shields.io/badge/Compiler-GCC-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 # 👨‍💻C-Programming Learner's Repository!👨‍💻
 
 👋🏻 Welcome to the C Programming Learner's Repository!
