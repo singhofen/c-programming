@@ -39,6 +39,25 @@ Otherway is to download any code-editor according to convenience.
 Our recommendation is to download and install Microsoft's Visual Studio Code and further install some suitable program extensions. 
 Link to install Visual Studio Code: https://code.visualstudio.com/download
 
+---
+
+## 🚀 My Current Projects
+
+Here are the custom programs built and tracked in this repository:
+
+* **`structures.c`**: Student record management using C `struct` types and standard input/output validation.
+* **`atm.c`**: Interactive banking terminal simulation handling balances, deposits, and withdrawal validations.
+* **`counter.c`**: Text analysis tool that counts total characters, vowel frequencies, and words from user input.
+
+### How to Compile & Run
+
+```powershell
+# Compile any project
+gcc -Wall -Wextra -std=c11 <filename>.c -o bin\<filename>.exe
+
+# Run the executable
+.\bin\<filename>.exe
+
 # README by Chase S. & Barsha D.
 
 ![resize_chase](https://user-images.githubusercontent.com/103309340/210171780-3867f9c6-a0d5-40bc-9d3a-ac3420aab9a7.jpg) & ![rsz_bd_gradient_1](https://user-images.githubusercontent.com/103309340/210171858-e62a5bd3-0ede-4314-8436-3c539a8a3434.jpg)
