@@ -39,6 +39,7 @@ int main(void)
             amountBoxActive = CheckCollisionPointRec(mousePos, amountBox);
         }
 
+        // Read number input only while the amount box is selected.
         if (amountBoxActive) {
             int key = GetCharPressed();
             while (key > 0) {
@@ -57,6 +58,7 @@ int main(void)
             }
         }
 
+        // Update the account balance when the user clicks a transaction button.
         if (CheckCollisionPointRec(mousePos, depositButton) && IsMouseButtonPressed(MOUSE_BUTTON_LEFT)) {
             float amount = atof(amountText);
 

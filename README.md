@@ -51,6 +51,7 @@ Here are the custom programs built and tracked in this repository:
 
 * **`structures.c`**: Student record management using C `struct` types and standard input/output validation.
 * **`atm.c`**: Interactive banking terminal simulation handling balances, deposits, and withdrawal validations.
+* **`gui_app.c`**: Raylib GUI version of the ATM app with clickable deposit, withdraw, balance, and clear controls.
 * **`counter.c`**: Text analysis tool that counts total characters, vowel frequencies, and words from user input.
 
 ### How to Compile & Run
@@ -61,6 +62,16 @@ gcc -Wall -Wextra -std=c11 <filename>.c -o bin\<filename>.exe
 
 # Run the executable
 .\bin\<filename>.exe
+```
+
+### Raylib GUI App
+
+```powershell
+# Compile the ATM GUI app
+gcc gui_app.c -o bin\gui_app.exe -Iinclude -Llib -lraylib -lopengl32 -lgdi32 -lwinmm -lshell32 -luser32
+
+# Run the ATM GUI app
+.\bin\gui_app.exe
 ```
 
 # README by Chase S. & Barsha D.
