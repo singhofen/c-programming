@@ -11,7 +11,7 @@ char name[50];
 float marks;
 };
 struct student s[3];
-void main()
+int  main (void)
 {
 for(int i=0;i<3;i++){
 printf("\nenter the student roll number:");
@@ -47,5 +47,6 @@ else if(s[i].marks<=40)
 printf("\ngrade of student %s is F",s[i].name);
     
 }
+return 0;
 }
 }
