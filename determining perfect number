@@ -1,0 +1,33 @@
+#include <stdio.h>
+int func(int a){
+    int sum=0;
+    
+        for(int i=1;i<a;i++){
+            if(a%i==0){
+                
+                sum=sum+i;
+            }
+            
+        }
+        
+        if(sum==a){
+            printf("perfect");
+        }
+        else{
+            printf(" not perfect");
+            
+        }
+    }
+   
+
+int main()
+{
+
+    int n;
+    printf("enter the number to find it is perfect or not : ");
+    scanf("%d",&n);
+    func(n);
+    
+
+    return 0;
+}
