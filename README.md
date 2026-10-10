@@ -57,6 +57,7 @@ gcc -Wall -Wextra -std=c11 <filename>.c -o bin\<filename>.exe
 
 # Run the executable
 .\bin\<filename>.exe
+```
 
 # README by Chase S. & Barsha D.
 
